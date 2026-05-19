@@ -1,0 +1,3 @@
+export { MediaService } from './media.service';
+export { ImageUploadOptions, VideoUploadOptions, Dimensions, CompressionOptions, MediaResult, MediaVariant, ValidationResult, MediaError, ALLOWED_IMAGE_TYPES, ALLOWED_VIDEO_TYPES, MAX_IMAGE_SIZE, MAX_VIDEO_SIZE, IMAGE_RESOLUTIONS, DEFAULT_URL_EXPIRATION, MIN_URL_EXPIRATION, MAX_URL_EXPIRATION, RETRY_CONFIG, } from './types';
+//# sourceMappingURL=index.d.ts.map
