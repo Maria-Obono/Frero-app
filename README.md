@@ -20,12 +20,20 @@ Architected and refined using **Kiro** for specification-driven development, the
 * Real-time Messaging 
 * Containerized Infrastructure
 ---
-**<img width="1464" height="777" alt="Screenshot 2026-05-18 at 6 26 50 PM" src="https://github.com/user-attachments/assets/f708ef95-8b6a-4f1b-9892-8674540080e5" />**
-**<img width="1446" height="827" alt="Screenshot 2026-05-18 at 6 28 45 PM" src="https://github.com/user-attachments/assets/40aa4758-90a2-449e-8d35-1de54002a845" />**
-**<img width="1457" height="704" alt="Screenshot 2026-05-18 at 6 29 12 PM" src="https://github.com/user-attachments/assets/993194f7-2572-43c6-9762-5b5358c110d9" />**
-**<img width="1466" height="777" alt="Screenshot 2026-05-18 at 6 25 33 PM" src="https://github.com/user-attachments/assets/dd4a3ed4-3ed6-46ad-aa13-438a275ef733" />**
-**<img width="1465" height="777" alt="Screenshot 2026-05-18 at 6 24 58 PM" src="https://github.com/user-attachments/assets/22753c33-efac-4025-bd63-1171c138a353" />**
+
 **<img width="1449" height="822" alt="Screenshot 2026-05-18 at 6 45 39 PM" src="https://github.com/user-attachments/assets/aeda7590-596f-4bce-a689-39954fa66e23" />**
+
+**<img width="1466" height="777" alt="Screenshot 2026-05-18 at 6 25 33 PM" src="https://github.com/user-attachments/assets/dd4a3ed4-3ed6-46ad-aa13-438a275ef733" />**
+
+**<img width="1446" height="827" alt="Screenshot 2026-05-18 at 6 28 45 PM" src="https://github.com/user-attachments/assets/40aa4758-90a2-449e-8d35-1de54002a845" />**
+
+**<img width="1464" height="777" alt="Screenshot 2026-05-18 at 6 26 50 PM" src="https://github.com/user-attachments/assets/f708ef95-8b6a-4f1b-9892-8674540080e5" />**
+
+**<img width="1457" height="704" alt="Screenshot 2026-05-18 at 6 29 12 PM" src="https://github.com/user-attachments/assets/993194f7-2572-43c6-9762-5b5358c110d9" />**
+
+
+
+
 
 
 ## 🛠️ Tech Stack & Architecture
